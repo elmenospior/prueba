@@ -1,2 +1,0 @@
-# prueba
-pruebita de proyectito
